@@ -1,0 +1,84 @@
+{
+ "characters": [
+{
+    "id": 1,
+    "imagen": "http://pm1.narvii.com/7207/190f11f84655c7967462be3078e18b8bb78fc9c6r1-346-454v2_00.jpg",
+    "nombre": "Axel Blaze",
+    "edad" : 15,
+    "genero": "M",
+    "posicion": "Delantero",
+    "equipo": "Seleccion Japon",
+    "padres": "Richard Blaze y Amanda Clark"
+},
+{
+    "id": 2,
+    "imagen": "",
+    "nombre": "Mamoru Endo",
+    "edad" : 14,
+    "genero": "M",
+    "posicion": "Portero",
+    "equipo": "Selección Japon",
+    "padres":"Ketsuke endo y Rafaella Terumi"
+},
+{
+    "id":3,
+    "imagen":"",
+    "nombre": "Kidou Yuuto",
+    "edad" : 18,
+    "genero": "M",
+    "posicion" : "Mediocampista Ofensivo",
+    "equipo": "Selección Japon",
+    "padres": "Strike Yuuto y Francy Ralls"
+},
+{
+    "id": 4,
+    "imagen":"https://i.pinimg.com/736x/e8/f1/22/e8f1221521bcf890a091450fa8fb5087.jpg",
+    "nombre": "Aforu Terumi",
+    "edad" : 17,
+    "genero": "M",
+    "posicion" : "Extremo",
+    "equipo": "Selección Corea",
+    "padres": "Frederick Terumi y Nahomy Marsh"
+},
+{
+    "id":5,
+    "imagen": "",
+    "nombre": "Natsumi Raimon",
+    "edad" : 21,
+    "genero": "F",
+    "posicion": "SubGerente",
+    "equipo": "Raimon",
+    "padres": "Nichols Raimon y Clim Zomy"
+},
+{
+    "id":6,
+    "imagen": "",
+    "nombre": "Kudou Fuyuka",
+    "edad" : 20,
+    "genero": "F",
+    "posicion": "Gerente",
+    "equipo": "Raimon",
+    "padres": "Cristopher Fuyuka y Charlotte Crals "
+},
+{
+    "id":7,
+    "imagen": "",
+    "nombre": "Teppei Kurimatsu",
+    "edad": "15",
+    "genero": "M",
+    "posicion": "Lateral Derecho",
+    "equipo": "Raimon",
+    "padres": "Louise Kurimatsu y Sankie Randall "
+},
+{
+    "id":8,
+    "imagen": "",
+    "nombre": "Fubuki Shirou",
+    "edad": "18",
+    "genero": "M",
+    "posicion": "Delantero",
+    "equipo": "Selección de Japon",
+    "padres": "Frank Shirou y Rakie Raimon "
+        }
+   ]
+}
