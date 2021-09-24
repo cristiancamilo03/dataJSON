@@ -12,7 +12,7 @@
 },
 {
     "id": 2,
-    "imagen": "",
+    "imagen": "https://static.wikia.nocookie.net/super-once-tv/images/e/ea/Endo.jpg/revision/latest/scale-to-width-down/1280?cb=20120319181940&path-prefix=es",
     "nombre": "Mamoru Endo",
     "edad" : 14,
     "genero": "M",
@@ -22,7 +22,7 @@
 },
 {
     "id":3,
-    "imagen":"",
+    "imagen":"https://static.wikia.nocookie.net/super-once-tv/images/d/dc/YuutoKidoP.jpg/revision/latest?cb=20120122174001&path-prefix=es",
     "nombre": "Kidou Yuuto",
     "edad" : 18,
     "genero": "M",
@@ -42,7 +42,7 @@
 },
 {
     "id":5,
-    "imagen": "",
+    "imagen": "https://pbs.twimg.com/media/CZhR9kGWEAE8SFr.jpg",
     "nombre": "Natsumi Raimon",
     "edad" : 21,
     "genero": "F",
@@ -52,7 +52,7 @@
 },
 {
     "id":6,
-    "imagen": "",
+    "imagen": "https://static.wikia.nocookie.net/inazuma-eleven-girls/images/e/e9/Ieg8.jpg/revision/latest?cb=20121113170137",
     "nombre": "Kudou Fuyuka",
     "edad" : 20,
     "genero": "F",
@@ -62,7 +62,7 @@
 },
 {
     "id":7,
-    "imagen": "",
+    "imagen": "https://static.wikia.nocookie.net/super-once-tv/images/0/06/Kurimatsu.jpg/revision/latest?cb=20110911190227&path-prefix=es",
     "nombre": "Teppei Kurimatsu",
     "edad": "15",
     "genero": "M",
@@ -72,7 +72,7 @@
 },
 {
     "id":8,
-    "imagen": "",
+    "imagen": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b3/Fubuki_Shirou_Orion.png/revision/latest?cb=20190119234149",
     "nombre": "Fubuki Shirou",
     "edad": "18",
     "genero": "M",
